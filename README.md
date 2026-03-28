@@ -1,0 +1,1 @@
+# global-ai-index-analysis
